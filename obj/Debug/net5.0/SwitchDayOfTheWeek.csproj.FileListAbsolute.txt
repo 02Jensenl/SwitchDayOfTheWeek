@@ -1,0 +1,16 @@
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\bin\Debug\net5.0\SwitchDayOfTheWeek.exe
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\bin\Debug\net5.0\SwitchDayOfTheWeek.deps.json
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\bin\Debug\net5.0\SwitchDayOfTheWeek.runtimeconfig.json
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\bin\Debug\net5.0\SwitchDayOfTheWeek.runtimeconfig.dev.json
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\bin\Debug\net5.0\SwitchDayOfTheWeek.dll
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\bin\Debug\net5.0\ref\SwitchDayOfTheWeek.dll
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\bin\Debug\net5.0\SwitchDayOfTheWeek.pdb
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\SwitchDayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\SwitchDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\SwitchDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\SwitchDayOfTheWeek.AssemblyInfo.cs
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\SwitchDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\SwitchDayOfTheWeek.dll
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\ref\SwitchDayOfTheWeek.dll
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\SwitchDayOfTheWeek.pdb
+C:\Users\Lauren\source\repos\SwitchDayOfTheWeek\obj\Debug\net5.0\SwitchDayOfTheWeek.genruntimeconfig.cache
